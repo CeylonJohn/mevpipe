@@ -1,0 +1,44 @@
+2023-03-22T04:34:46.9636726Z ##[group]Run make check
+2023-03-22T04:34:46.9637047Z [36;1mmake check[0m
+2023-03-22T04:34:46.9701791Z shell: /usr/bin/bash -e {0}
+2023-03-22T04:34:46.9702073Z env:
+2023-03-22T04:34:46.9702332Z   GOROOT: /opt/hostedtoolcache/go/1.18.10/x64
+2023-03-22T04:34:46.9702613Z ##[endgroup]
+2023-03-22T04:34:46.9866514Z go run cmd/main.go check
+2023-03-22T04:34:47.1428757Z go: downloading github.com/sirupsen/logrus v1.8.1
+2023-03-22T04:34:47.1449896Z go: downloading github.com/spf13/cobra v1.4.0
+2023-03-22T04:34:47.2693008Z go: downloading github.com/trustwallet/assets-go-libs v0.3.2
+2023-03-22T04:34:47.3557568Z go: downloading github.com/trustwallet/go-primitives v0.0.68
+2023-03-22T04:34:48.1728781Z go: downloading github.com/spf13/pflag v1.0.5
+2023-03-22T04:34:48.2338824Z go: downloading golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+2023-03-22T04:34:48.6479476Z go: downloading github.com/trustwallet/go-libs v0.3.13
+2023-03-22T04:34:48.7699611Z go: downloading github.com/deckarep/golang-set v1.7.1
+2023-03-22T04:34:49.6233247Z go: downloading github.com/spf13/viper v1.10.0
+2023-03-22T04:34:49.6656382Z go: downloading golang.org/x/image v0.0.0-20211028202545-6944b10bf410
+2023-03-22T04:34:49.9034759Z go: downloading golang.org/x/crypto v0.0.0-20220214200702-86341886e292
+2023-03-22T04:34:50.1566845Z go: downloading github.com/fsnotify/fsnotify v1.5.1
+2023-03-22T04:34:50.2081282Z go: downloading github.com/magiconair/properties v1.8.5
+2023-03-22T04:34:50.2271546Z go: downloading github.com/mitchellh/mapstructure v1.4.3
+2023-03-22T04:34:50.2284988Z go: downloading github.com/spf13/afero v1.6.0
+2023-03-22T04:34:50.2427952Z go: downloading github.com/spf13/cast v1.4.1
+2023-03-22T04:34:50.2543140Z go: downloading github.com/spf13/jwalterweatherman v1.1.0
+2023-03-22T04:34:50.2570172Z go: downloading github.com/subosito/gotenv v1.2.0
+2023-03-22T04:34:50.2655913Z go: downloading gopkg.in/ini.v1 v1.66.2
+2023-03-22T04:34:50.2844782Z go: downloading github.com/patrickmn/go-cache v2.1.0+incompatible
+2023-03-22T04:34:50.4832954Z go: downloading golang.org/x/text v0.3.8
+2023-03-22T04:34:51.2710749Z go: downloading github.com/hashicorp/hcl v1.0.0
+2023-03-22T04:34:51.3065444Z go: downloading github.com/pelletier/go-toml v1.9.4
+2023-03-22T04:34:51.3352205Z go: downloading gopkg.in/yaml.v2 v2.4.0
+2023-03-22T04:35:07.7983058Z time="2023-03-22T04:35:07Z" level=info msg="Viper using supplied config" config=/home/runner/work/assets/assets/.github/assets.config.yaml
+2023-03-22T04:35:09.0559631Z time="2023-03-22T04:35:09Z" level=error msg="file is not allowed: JjuUrbmw4mdkHbYXAVVm--100--NKODO.jpg" asset= chain= path=./ type=root_folder validation="Root folder contains only allowed files"
+2023-03-22T04:35:09.0566968Z time="2023-03-22T04:35:09Z" level=error msg="file is not allowed: JjuUrbmw4mdkHbYXAVVm--40--TUMVR.jpg" asset= chain= path=./ type=root_folder validation="Root folder contains only allowed files"
+2023-03-22T04:35:09.0568661Z time="2023-03-22T04:35:09Z" level=error msg="file is not allowed: JjuUrbmw4mdkHbYXAVVm--50--U5CDX.jpg" asset= chain= path=./ type=root_folder validation="Root folder contains only allowed files"
+2023-03-22T04:35:09.0570075Z time="2023-03-22T04:35:09Z" level=error msg="file is not allowed: JjuUrbmw4mdkHbYXAVVm.jpg" asset= chain= path=./ type=root_folder validation="Root folder contains only allowed files"
+2023-03-22T04:35:09.0571300Z time="2023-03-22T04:35:09Z" level=error msg="file is not allowed: B0JTwHl3sCzhxp2SNeyi--0--IOG63.jpg" asset= chain= path=./ type=root_folder validation="Root folder contains only allowed files"
+2023-03-22T04:35:09.0572391Z time="2023-03-22T04:35:09Z" level=error msg="file is not allowed: JjuUrbmw4mdkHbYXAVVm--150--EEE49.jpg" asset= chain= path=./ type=root_folder validation="Root folder contains only allowed files"
+2023-03-22T04:35:09.0573751Z time="2023-03-22T04:35:09Z" level=error msg="file is not allowed: 1654158766145_49JuGCcCxNWQoY0VVloM6iBoAqL2-1653928928428-1.zip" asset= chain= path=./ type=root_folder validation="Root folder contains only allowed files"
+2023-03-22T04:35:09.0574890Z time="2023-03-22T04:35:09Z" level=error msg="file is not allowed: JjuUrbmw4mdkHbYXAVVm--0--C9W4F.jpg" asset= chain= path=./ type=root_folder validation="Root folder contains only allowed files"
+2023-03-22T04:35:10.8841435Z time="2023-03-22T04:35:10Z" level=fatal msg="Total files: 33731, errors: 8"
+2023-03-22T04:35:10.8890885Z exit status 1
+2023-03-22T04:35:10.9062845Z make: *** [Makefile:37: check] Error 1
+2023-03-22T04:35:10.9084689Z ##[error]Process completed with exit code 2.

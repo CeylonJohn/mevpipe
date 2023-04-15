@@ -1,0 +1,11 @@
+2023-03-22T04:34:46.4574139Z ##[group]Run git status
+2023-03-22T04:34:46.4574521Z [36;1mgit status[0m
+2023-03-22T04:34:46.4574763Z [36;1mgit diff[0m
+2023-03-22T04:34:46.4650124Z shell: /usr/bin/bash -e {0}
+2023-03-22T04:34:46.4650442Z env:
+2023-03-22T04:34:46.4650729Z   GOROOT: /opt/hostedtoolcache/go/1.18.10/x64
+2023-03-22T04:34:46.4651000Z ##[endgroup]
+2023-03-22T04:34:46.9130451Z On branch CeylonJohn-patch-1
+2023-03-22T04:34:46.9131377Z Your branch is up to date with 'origin/CeylonJohn-patch-1'.
+2023-03-22T04:34:46.9131811Z 
+2023-03-22T04:34:46.9132334Z nothing to commit, working tree clean

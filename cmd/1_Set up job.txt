@@ -1,0 +1,28 @@
+2023-03-22T04:34:32.6126909Z Current runner version: '2.303.0'
+2023-03-22T04:34:32.6157556Z ##[group]Operating System
+2023-03-22T04:34:32.6158138Z Ubuntu
+2023-03-22T04:34:32.6158415Z 22.04.2
+2023-03-22T04:34:32.6158630Z LTS
+2023-03-22T04:34:32.6159024Z ##[endgroup]
+2023-03-22T04:34:32.6159676Z ##[group]Runner Image
+2023-03-22T04:34:32.6160030Z Image: ubuntu-22.04
+2023-03-22T04:34:32.6160351Z Version: 20230313.1
+2023-03-22T04:34:32.6160843Z Included Software: https://github.com/actions/runner-images/blob/ubuntu22/20230313.1/images/linux/Ubuntu2204-Readme.md
+2023-03-22T04:34:32.6161479Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20230313.1
+2023-03-22T04:34:32.6162095Z ##[endgroup]
+2023-03-22T04:34:32.6162445Z ##[group]Runner Image Provisioner
+2023-03-22T04:34:32.6162954Z 2.0.127.1
+2023-03-22T04:34:32.6163234Z ##[endgroup]
+2023-03-22T04:34:32.6163936Z ##[group]GITHUB_TOKEN Permissions
+2023-03-22T04:34:32.6164683Z Contents: read
+2023-03-22T04:34:32.6164959Z Metadata: read
+2023-03-22T04:34:32.6165284Z Packages: read
+2023-03-22T04:34:32.6165974Z ##[endgroup]
+2023-03-22T04:34:32.6170728Z Secret source: Actions
+2023-03-22T04:34:32.6171434Z Prepare workflow directory
+2023-03-22T04:34:32.7232288Z Prepare all required actions
+2023-03-22T04:34:32.7463073Z Getting action download info
+2023-03-22T04:34:33.0740689Z Download action repository 'actions/checkout@v2' (SHA:dc323e67f16fb5f7663d20ff7941f27f5809e9b6)
+2023-03-22T04:34:33.7317060Z Download action repository 'actions/setup-go@v2' (SHA:bfdd3570ce990073878bf10f6b2d79082de49492)
+2023-03-22T04:34:34.1994878Z Download action repository 'stefanzweifel/git-auto-commit-action@v4.1.2' (SHA:dd055f6225757c369f948744463f63ac1bd4c277)
+2023-03-22T04:34:34.7863432Z Complete job name: fix-all
