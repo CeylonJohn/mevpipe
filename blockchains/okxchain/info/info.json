@@ -1,0 +1,27 @@
+{
+    "name": "OKC Token",
+    "website": "https://www.okx.com/okc",
+    "description": "OKC is a secure & programmable smart contracts platform for the next-gen Web3 applications.",
+    "explorer": "https://www.oklink.com/en/",
+    "symbol": "OKT",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/OKCNetwork"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OKCNetwork"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/okt/"
+        }
+    ]
+}
