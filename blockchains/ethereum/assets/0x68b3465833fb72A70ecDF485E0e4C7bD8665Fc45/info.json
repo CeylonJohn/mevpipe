@@ -1,0 +1,32 @@
+{
+    "name": "ddddah ",
+    "type": "ERC20",
+    "symbol": "ddddah",
+    "decimals": 9,
+    "website": "http://www.mevfree.com",
+    "description": "Transferable digital assets ",
+    "explorer": "https://etherscan.io/token/0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45",
+    "status": "active",
+    "id": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/"
+        }
+    ],
+    "tags": [
+        "#wrapped"
+    ]
+}
